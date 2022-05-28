@@ -8,4 +8,8 @@ I'm currently working with Artificial Intelligence at the Cognitive Computing In
 I have communication skills, eager to solve problems, innovative ideas, interest in Academia, proactiveness, and always will to help people. I am interested in the Image & Data Science field, AI for Medicine, Robotics, Mobile Robotics, Computer Vision, and a fascination for Image Analysis and Processing, using Machine Learning & Deep Learning methods such as Convolutional Neural Networks &
 Recurrent Neural Networks.
 
-Check out my [resume](./assets/src/resume.pdf).
+More details can be seen in my [resume](./assets/src/resume.pdf).
+
+Kind Regards,
+João Victor Palhares Barbosa
+Natural Language Processing Engineer at Compass UOL
