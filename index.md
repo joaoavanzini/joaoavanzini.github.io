@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-###Hello, I'm [João Victor Palhares Barbosa](https://www.linkedin.com/in/joao-palhares/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hello, I'm [João Victor Palhares Barbosa](https://www.linkedin.com/in/joao-palhares/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 I'm currently working with Artificial Intelligence at the Cognitive Computing Innovation Studio at [Compass UOL](https://compass.uol/) and working with [RASA](https://rasa.com/) on a project with over 30 Million exchanged messages per month.
 
