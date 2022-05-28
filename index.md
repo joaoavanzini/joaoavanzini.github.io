@@ -10,6 +10,6 @@ Recurrent Neural Networks.
 
 More details can be seen in my [resume](./assets/src/resume.pdf).
 
-Kind Regards,
-João Victor Palhares Barbosa
+Kind Regards,<br>
+João Victor Palhares Barbosa<br>
 Natural Language Processing Engineer at Compass UOL
