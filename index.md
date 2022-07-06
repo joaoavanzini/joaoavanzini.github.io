@@ -15,3 +15,6 @@ E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 Kind Regards,<br>
 João Victor Palhares Barbosa<br>
 Natural Language Processing Engineer at Compass UOL
+
+
+To access the Arduino and Programming Mini Course exercises, just click [here](./assets/src/exercicios_arduino.pdf).
