@@ -18,4 +18,5 @@ Natural Language Processing Engineer at Compass UOL
 
 
 To access the Arduino and Programming Mini Course exercises, just click [here](./assets/src/exercicios_arduino.pdf).
+
 Rate the Mini Course, just click [here](https://forms.gle/xRQjVZKFHMjHXuqPA).
