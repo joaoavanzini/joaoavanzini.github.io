@@ -11,7 +11,7 @@ Computer Technician Degree at College of Limeira of The State University of Camp
 Particularly interested in Artificial Intelligence for Medical Image Processing, Cognitive Computer Solutions, Robotics, Internet of Things (IoT), Autonomous Guided Vehicles, and Chatbots.
 
 
-More details can be seen in my [resume](./assets/src/resume.pdf).
+More details can be seen in my [resumé](./assets/src/resume.pdf).
 
 E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 
