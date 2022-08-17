@@ -11,14 +11,11 @@ Computer Technician Degree at College of Limeira of The State University of Camp
 Particularly interested in Artificial Intelligence for Medical Image Processing, Cognitive Computer Solutions, Robotics, Internet of Things (IoT), Autonomous Guided Vehicles, and Chatbots.
 
 
-More details can be seen in my [resumé](./assets/src/resume.pdf).
+More details can be seen in my [resume](./assets/src/resume.pdf).
 
-E-mail for contact: 
-- <a href="mailto:joao@palhares.dev">joao@palhares.dev</a><br>
-- <a href="mailto:joao.palhares@compass.uol">joao.palhares@compass.uol</a><br>
-- <a href="mailto:joao.palhares@students.ic.unicamp.br">joao.palhares@students.ic.unicamp.br</a>
+E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 
-Kind Regards,<br>   
+Kind Regards,<br>
 João Victor Palhares Barbosa<br>
 Natural Language Processing Engineer at Compass UOL<br>
 Medical Image Processing & Deep Learning Engineer at IC-UNICAMP/LIDS-LAB
