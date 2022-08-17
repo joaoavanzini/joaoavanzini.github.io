@@ -18,6 +18,6 @@ E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 Kind Regards,<br>
 João Victor Palhares Barbosa<br>
 Natural Language Processing Engineer at Compass UOL<br>
-Medical Image Processing & Deep Learning Engineer at IC-UNICAMP/LIDS-LAB
+M.Sc. Medical Image Processing & Deep Learning at IC-UNICAMP/LIDS-LAB
 
 
