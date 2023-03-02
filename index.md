@@ -12,11 +12,11 @@ Computer Technician Degree at College of Limeira of The State University of Camp
 Particularly interested in Artificial Intelligence for Medical data, Cognitive Computer Solutions, Robotics, Internet of Things (IoT), Autonomous Guided Vehicles, and Chatbots.
 
 
-More details can be seen in my [resumé](./assets/src/resume.pdf) - last update: Aug 17, 2022.
+More details can be seen in my [resumé](./assets/src/resume.pdf) - last update: March 02, 2023.
 
 E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 
 Kind Regards,<br>
 João Victor Palhares Barbosa<br>
 Computer Vision Team Leader at Compass UOL<br>
-M.Sc. student of Deep Learning solutions to Medical data at laboratory REAsoning for COmplex Data (Recod.ai)
+M.Sc. student of Deep Learning solutions to Medical data at laboratory REasoning for COmplex Data (Recod.ai)
