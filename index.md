@@ -3,7 +3,7 @@ layout: default
 ---
 ### Hello, I'm [João Victor Palhares Barbosa](https://www.linkedin.com/in/joao-palhares/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-João Victor Palhares Barbosa is a master's student at the State University of Campinas ([UNICAMP](https://www.unicamp.br/)), at the Institute of Computing ([IC](https://ic.unicamp.br/)), a scientific researcher member of the laboratory REAsoning for COmplex Data ([Recod.ai](https://recod.ai/)). His emphasis is on the use of models of Deep Learning such as Artificial Neural Networks (ANN) and Generative Adversarial Networks (GAN) in the medical field to estimate blood pressure and detect brain anomalies.
+João Victor Palhares Barbosa is a master's student at the State University of Campinas ([UNICAMP](https://www.unicamp.br/)), at the Institute of Computing ([IC](https://ic.unicamp.br/)), a scientific researcher member of the laboratory REasoning for COmplex Data ([Recod.ai](https://recod.ai/)). His emphasis is on the use of models of Deep Learning such as Artificial Neural Networks (ANN) and Generative Adversarial Networks (GAN) in the medical field to estimate blood pressure and detect brain anomalies.
 
 As a professional collaborator of the company [Compass UOL](https://compass.uol/), João Victor is a computer vision team leader at the Cognitive Computing Innovation Studio and uses his skills to manage teams and instruct them to solve problems as best as possible.
 
