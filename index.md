@@ -12,9 +12,9 @@ Computer Technician Degree at College of Limeira of The State University of Camp
 Particularly interested in Artificial Intelligence for Medical data, Cognitive Computer Solutions, Robotics, Internet of Things (IoT), Autonomous Guided Vehicles, and Chatbots.
 
 
-More details can be seen in my [resumé](./assets/src/resume.pdf) - last update: March 02, 2023.
+More details can be seen in my [résumé](./assets/src/resume.pdf) - last update: March 27, 2023.
 
-E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
+Would you like to talk with me? E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 
 Kind Regards,<br>
 João Victor Palhares Barbosa<br>
