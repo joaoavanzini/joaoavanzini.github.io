@@ -11,6 +11,7 @@ Computer Technician Degree at College of Limeira of The State University of Camp
 
 Particularly interested in Artificial Intelligence for Medical data, Cognitive Computer Solutions, Robotics, Internet of Things (IoT), Autonomous Guided Vehicles, and Chatbots.
 
+If you found the lack/addition of the last name strange, it is because it was recently rectified. The correct usage is with Avanzini at the end of my last name.
 
 More details can be seen in my [résumé](./assets/src/resume.pdf) - last update: Jul 7, 2023.
 
