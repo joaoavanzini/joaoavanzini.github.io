@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-### Hello, I'm [João Victor Palhares Barbosa Avanzini](https://www.linkedin.com/in/joao-palhares/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hello, I'm [João Victor Palhares Barbosa Avanzini](https://www.linkedin.com/in/joao-avanzini/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 João Victor is a master's student at the State University of Campinas ([UNICAMP](https://www.unicamp.br/)), at the Institute of Computing ([IC](https://ic.unicamp.br/)), a scientific researcher member of the laboratory REasoning for COmplex Data ([Recod.ai](https://recod.ai/)). His emphasis is on the use of models of Deep Learning such as Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), Recurrent Neural Network (RNN), and Generative Adversarial Networks (GAN) in the medical field to estimate blood pressure and detect brain anomalies.
 
