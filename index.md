@@ -13,6 +13,8 @@ Particularly interested in Artificial Intelligence for Medical data, Cognitive C
 
 Would you like to talk with me? E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 
+Last update: Apr 8, 2024
+
 Kind Regards,<br>
 João Victor P. B. Avanzini<br>
 M.Sc. student of Deep Learning solutions to Medical data at laboratory REasoning for COmplex Data (Recod.ai)
