@@ -5,11 +5,11 @@ layout: default
 
 #### Page under construction
 
-João Victor is a master's student at the State University of Campinas ([UNICAMP](https://www.unicamp.br/)), at the Institute of Computing ([IC](https://ic.unicamp.br/)), a scientific researcher membxwer of the laboratory REasoning for COmplex Data ([Recod.ai](https://recod.ai/)). His emphasis is on the use of models of Deep Learning such as Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), Recurrent Neural Network (RNN), and Generative Adversarial Networks (GAN) in the medical field to estimate blood pressure and detect brain anomalies.
+João Victor is a master's student at the State University of Campinas ([UNICAMP](https://www.unicamp.br/)), at the Institute of Computing ([IC](https://ic.unicamp.br/)), a scientific researcher member of the laboratory REasoning for COmplex Data ([Recod.ai](https://recod.ai/)). His emphasis is on the use of models of Deep Learning such as Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), Recurrent Neural Network (RNN), and Generative Adversarial Networks (GAN) in the medical field to estimate blood pressure and detect brain anomalies.
 
 Computer Technician Degree at College of Limeira of The State University of Campinas ([COTIL-UNICAMP](https://www.cotil.unicamp.br/)), and Industrial Mechatronics Technology major at Arthur de Azevedo Technological Faculty ([FATEC Mogi Mirim](https://fatecmm.edu.br/)).
 
-Particularly interested in Artificial Intelligence for Medical data, Cognitive Computer Solutions, Robotics, Internet of Things (IoT), Autonomous Guided Vehicles, and Chatbots.
+Particularly interested in Artificial Intelligence for Medical data, Cognitive Computer Solutions, Robotics, Internet of Things, Autonomous Guided Vehicles, and Chatbots.
 
 Would you like to talk with me? E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
 
