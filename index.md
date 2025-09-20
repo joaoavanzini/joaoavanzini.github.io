@@ -43,7 +43,7 @@ My practical skills are built on a strong academic foundation in artificial inte
 
 I am currently available for freelance projects and consulting opportunities where I can help your team tackle significant challenges in AI and data. If you're looking for a dedicated partner to bring your project to the next level, I would be delighted to connect.
 
-**Feel free to reach out:** <a href="mailto:joao@palhares.dev" style="color:#007bff; text-decoration:none;">falejoaovictor@hotmail.com</a>
+**Feel free to reach out:** <a href="mailto:falejoaovictor@hotmail.com" style="color:#007bff; text-decoration:none;">falejoaovictor@hotmail.com</a>
 
 <br>
 <hr style="border: 0; height: 1px; background: #ddd;">
