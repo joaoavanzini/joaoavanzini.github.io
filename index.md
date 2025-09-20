@@ -3,18 +3,50 @@ layout: default
 ---
 ### Hello, I'm [João Victor Palhares Barbosa Avanzini](https://www.linkedin.com/in/joao-avanzini/)! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-#### Page under construction
+I am an **AI and Data Science specialist** dedicated to building intelligent, scalable systems that solve complex business challenges. With a Master's degree in Computer Science from one of Latin America's top universities and a proven track record in both corporate and research environments, I bridge the gap between theoretical innovation and practical, high-impact applications.
 
-João Victor is a master's student at the State University of Campinas ([UNICAMP](https://www.unicamp.br/)), at the Institute of Computing ([IC](https://ic.unicamp.br/)), a scientific researcher member of the laboratory REasoning for COmplex Data ([Recod.ai](https://recod.ai/)). His emphasis is on the use of models of Deep Learning such as Artificial Neural Networks (ANN), Long Short-Term Memory (LSTM), Recurrent Neural Network (RNN), and Generative Adversarial Networks (GAN) in the medical field to estimate blood pressure and detect brain anomalies.
+My passion lies in transforming data into actionable insights and robust AI-powered products. Whether it's architecting enterprise-grade data pipelines, leading computer vision teams, or developing sophisticated NLP models, I thrive on creating solutions that drive efficiency and growth.
 
-Computer Technician Degree at College of Limeira of The State University of Campinas ([COTIL-UNICAMP](https://www.cotil.unicamp.br/)), and Industrial Mechatronics Technology major at Arthur de Azevedo Technological Faculty ([FATEC Mogi Mirim](https://fatecmm.edu.br/)).
+<br>
 
-Particularly interested in Artificial Intelligence for Medical data, Cognitive Computer Solutions, Robotics, Internet of Things, Autonomous Guided Vehicles, and Chatbots.
+---
 
-Would you like to talk with me? E-mail for contact: <a href="mailto:joao@palhares.dev">joao@palhares.dev</a>.
+### Professional Expertise
 
-Last update: Apr 8, 2024
+My work is focused on three core areas where I deliver tangible value:
 
-Kind Regards,<br>
-João Victor P. B. Avanzini<br>
-M.Sc. student of Deep Learning solutions to Medical data at laboratory REasoning for COmplex Data (Recod.ai)
+* **Data Engineering & Cloud Architecture** <br>
+    I design and implement resilient, automated ETL pipelines for large-scale data processing. My expertise includes building data workflows on the **Google Cloud Platform (GCP)**, utilizing services like BigQuery, Cloud Functions, and Pub/Sub to ensure data is clean, harmonized, and ready for advanced analytics and machine learning applications.
+
+* **Computer Vision** <br>
+    As a former Computer Vision Team Leader, I have hands-on experience taking projects from concept to deployment. I have successfully implemented solutions like real-time object detection with **YOLOv8** for industrial applications, automated document analysis with **OCR**, and developed novel systems for ergonomic posture analysis that gained significant industry attention.
+
+* **Natural Language Processing (NLP)** <br>
+    I build and scale conversational AI solutions that enhance user engagement. A key project involved leading the migration of enterprise chatbots for **PagSeguro PagBank** to a RASA/Python stack, engineering a microservices architecture designed to support millions of daily interactions.
+
+<br>
+
+---
+
+### Academic Foundations & Research
+
+My practical skills are built on a strong academic foundation in artificial intelligence from the **State University of Campinas (UNICAMP)**, where my research is recognized by the international community.
+
+* **Master's Thesis:** My thesis, "[*Exploring representation learning on electrocardiogram signals*](https://www.repositorio.unicamp.br/Acervo/Detalhe/1503481)", was accepted and published, showcasing my ability to conduct rigorous scientific inquiry.
+* **International Recognition:** I have been invited to present my research at prestigious international conferences, including the **International Joint Conference on Neural Networks (IJCNN)** and the **KHIPU Latin American Meeting in AI**.
+
+<br>
+
+---
+
+### Let's Build Something Great Together
+
+I am currently available for freelance projects and consulting opportunities where I can help your team tackle significant challenges in AI and data. If you're looking for a dedicated partner to bring your project to the next level, I would be delighted to connect.
+
+**Feel free to reach out:** <a href="mailto:joao@palhares.dev" style="color:#007bff; text-decoration:none;">falejoaovictor@hotmail.com</a>
+
+<br>
+<hr style="border: 0; height: 1px; background: #ddd;">
+<p style="color:#888; font-size: 0.9em;">
+Last updated: September 19, 2024
+</p>
